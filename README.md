@@ -14,8 +14,6 @@ Usage:
               ------- Assuming python 2.7 already installed.
       Now give the interface you want to use, the tool automatically generates the packets and sends to multicast address.
        
-       
-      Thanks,
-      
-      If you have any quiries and code changes please write in issues.
+ Thanks,     
+ If you have any quiries and code changes please write in issues.
       
