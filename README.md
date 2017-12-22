@@ -15,5 +15,5 @@ Usage:
       Now give the interface you want to use, the tool automatically generates the packets and sends to multicast address.
        
  Thanks,     
- If you have any quiries and code changes please write in issues.
+ If you have any queries and code changes please write in issues.
       
